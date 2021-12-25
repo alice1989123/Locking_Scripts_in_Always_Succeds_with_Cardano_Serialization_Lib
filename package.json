@@ -1,0 +1,20 @@
+{
+  "name": "test-cbor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blockfrost/blockfrost-js": "^3.0.2",
+    "@emurgo/cardano-serialization-lib-nodejs": "^9.1.0",
+    "axios": "^0.24.0",
+    "blake2": "^4.0.2",
+    "dotenv": "^10.0.0",
+    "i": "^0.3.7",
+    "npm": "^8.3.0"
+  }
+}
